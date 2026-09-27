@@ -1,4 +1,4 @@
-package Practica4;
+package ejercicio3;
 
 public class Inventario {
     private double [] precios;
